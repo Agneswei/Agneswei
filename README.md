@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Montreal,Canada</h3>
 
 ### About Me
-I'm a **Computer Science** student at **Concordia University**, passionate about **software development** and building **engaging interactive experiences** on the web.
+I'm a **Computer Science** student at **Concordia University**, passionate about **software development**, **UX/UI design**, and building **engaging interactive experiences** on the web.
 
 ## 🔍Always Learning:
 I'm constantly expanding my skill set, whether it's a new **framework, tool, or concept.** I belive in lifelong learning and collaboration, so I'm always open to new ideas and opportunities!
