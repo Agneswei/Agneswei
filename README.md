@@ -22,7 +22,7 @@ Here are some of the cool things I've worked on:
     <img src="https://github-readme-stats.vercel.app/api?username=agneswei&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agneswei&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=agneswei&show_icons=true&layout=compact&theme=radical&cache_seconds=60" alt="Top Languages" />
 </p>
 
 ### 🤝 Connect with Me  
