@@ -9,6 +9,7 @@ I'm constantly expanding my skill set, whether it's a new **framework, tool, or 
 
 ###  Projets
 Here are some of the cool things I've worked on:
+- 🛒 **[Taupe Brand]** (https://github.com/Agneswei/taupe-brand)→ A modern, responsive e-commerce site build from scratch for a global fashion brand.
 - 📸 **[Picapica]** (https://github.com/Agneswei/Picapica) → A web-based photo booth that captures photo strips, applies filters, and allows instant downloads.  
 - 🥗 **[Lunchatron] (https://github.com/Agneswei/Lunchatron)** → Ai-powered recipe generator that suggests meals based on ingredient images.
 - 🖥️ **[Personal Portfolio] (https://github.com/Agneswei/Personal-Portfolio)** → A showcase of my projects, skills, and experience as a software developer.
